@@ -5,7 +5,7 @@ const config = {
 };
 
 const players = [
-    { name: "E❌️|Lotox", currentTr: 74953, goalTr: 70000, clan: "km1", url: "https://brawlytix.com/profile/9PJYLRPPG" },
+    { name: "E❌️|Lotox", currentTr: 64953, goalTr: 70000, clan: "km1", url: "https://brawlytix.com/profile/9PJYLRPPG" },
     { name: "zdfay", currentTr: 46063, goalTr: 50000, clan: "km2", url: "https://brawlytix.com/profile/8UL2RUQ82" },
     { name: "trix-_-", currentTr: 33374, goalTr: 50000, clan: "km2", url: "https://brawlytix.com/profile/288GRGV90L" },
     { name: "Nathan93230.", currentTr: 29558, goalTr: 50000, clan: "km2", url: "https://brawlytix.com/profile/8Q2GC8092" },
