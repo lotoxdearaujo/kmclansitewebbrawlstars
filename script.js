@@ -6,11 +6,11 @@ const config = {
 
 const players = [
     { name: "E❌️|Lotox", currentTr: 65000, goalTr: 70000, clan: "km1", url: "https://brawlytix.com/profile/9PJYLRPPG" },
-    { name: "zdfay", currentTr: 46063, goalTr: 50000, clan: "km2", url: "https://brawlytix.com/profile/8UL2RUQ82" },
-    { name: "trix-_-", currentTr: 33374, goalTr: 50000, clan: "km2", url: "https://brawlytix.com/profile/288GRGV90L" },
+    { name: "zdfay", currentTr: 46291, goalTr: 50000, clan: "km2", url: "https://brawlytix.com/profile/8UL2RUQ82" },
+    { name: "trix-_-", currentTr: 33388, goalTr: 50000, clan: "km2", url: "https://brawlytix.com/profile/288GRGV90L" },
     { name: "Nathan93230.", currentTr: 29558, goalTr: 50000, clan: "km2", url: "https://brawlytix.com/profile/8Q2GC8092" },
-    { name: "oula", currentTr: 29454, goalTr: 50000, clan: "km2", url: "https://brawlytix.com/profile/22J8UR9VG" },
-    { name: "Nael FR", currentTr: 10761, goalTr: 20000, clan: "km3", url: "https://brawlytix.com/profile/PJURCJ2RL" },
+    { name: "oula", currentTr: 29608, goalTr: 50000, clan: "km2", url: "https://brawlytix.com/profile/22J8UR9VG" },
+    { name: "Nael FR", currentTr: 10882, goalTr: 20000, clan: "km3", url: "https://brawlytix.com/profile/PJURCJ2RL" },
     { name: "E❌| LotoxV3", currentTr: 1393, goalTr: 20000, clan: "km3", url: "https://brawlytix.com/profile/9YJULUQPY" },
     { name: "KM | Lotox", currentTr: 2121, goalTr: 50000, clan: "km2", url: "https://brawlytix.com/profile/QLCCRQ8JG" }
 ];
